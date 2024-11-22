@@ -1,0 +1,33 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+
+    box-sizing: border-box;
+}
+body{
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#coverletter{
+    padding: 100px;
+
+    background-color: azure;
+}
+#coverletter img{
+    float: right;
+    margin-left: 100px;
+    margin-top: 150px;
+    box-shadow: 0 0 5px blue;
+    border-radius: 6px;
+}
+#coverletter h1{
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+#coverletter  p{
+    font-size: 1.3rem;
+    line-height: 30px;
+}

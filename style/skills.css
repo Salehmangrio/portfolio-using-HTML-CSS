@@ -1,0 +1,79 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+
+    box-sizing: border-box;
+}
+body{
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#skills{
+    padding: 100px 0;
+    background-color: black;
+    color: white;
+    width: 75vw;
+}
+#skills h1,.skillBox{
+    padding: 0 100px;
+}
+#skills h1{
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+#skills p{
+    padding-left: 100px;
+    font-size: 1.3rem;
+    line-height: 30px;
+}
+#skills .skillBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#skills .skillBox .myDiv{
+    position: relative;
+    background-color: white;
+    color: black;
+    height: 60px;
+    padding: 20px 10px;
+    margin: 20px 0;
+    font-weight: 900;
+    font-size: 18px;
+}
+#skills .skillBox #skillName1 {
+    width: 88%;
+}
+
+#skills .skillBox #skillName2 {
+    width: 82%;
+}
+
+#skills .skillBox #skillName3 {
+    width: 85%;
+}
+
+#skills .skillBox #skillName4 {
+    width: 90%;
+}
+
+#skills .skillBox #skillName5 {
+    width: 78%;
+}
+
+#skills .skillBox #skillName6 {
+    width: 83%;
+}
+
+#skills .skillBox h3{
+    float: right;
+}
+
+
+
+
+
+

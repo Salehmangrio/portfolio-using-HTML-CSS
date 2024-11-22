@@ -1,0 +1,26 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+
+    box-sizing: border-box;
+}
+body{
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+#experience{
+    padding: 100px;
+    background-color: azure;
+    color: black;
+}
+
+#experience h1{
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+#experience p{
+    font-size: 1.3rem;
+    line-height: 30px;
+}

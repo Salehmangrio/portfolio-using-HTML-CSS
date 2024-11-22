@@ -1,0 +1,48 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+
+    box-sizing: border-box;
+}
+body{
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+#education{
+    padding: 100px;
+    background-color: azure;
+    color: black;
+}
+
+#education h1{
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+#education p{
+    font-size: 1.3rem;
+    line-height: 30px;
+}
+#education h4{
+    font-weight: 900;
+    font-size: 16px;
+}
+#education .vl {
+    border-left: 6px solid green;
+    height: 50px;
+    margin-top: 70px;
+   
+}
+
+#education #gridData{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 100px;
+    
+}
+#education #gridData a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}

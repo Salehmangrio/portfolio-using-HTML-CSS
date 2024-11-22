@@ -1,0 +1,81 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+
+    box-sizing: border-box;
+}
+body{
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#contact{
+    padding: 100px;
+    margin-top: 0;
+    background-color: black;
+    color: white;
+}
+
+#contact h1{
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+#contact p{
+    font-size: 1.3rem;
+    line-height: 30px;
+}
+ .contactGrid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 50px;
+}
+.contactGrid input{
+    margin: 15px 0;
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    outline: none;
+    border-bottom: 2px solid white;
+    border-left: none;
+    border-top: none;
+    border-right:none;
+}
+.contactGrid textarea{
+    background-color: black;
+    width: 100%;
+    background-color: black;
+    color: white;
+    outline: none;
+    border-bottom: 2px solid white;
+    border-left: none;
+    border-top: none;
+    border-right:none;
+}
+
+
+.contactGrid button{
+    margin-top: 20px;
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    box-shadow: 0 0 10px red;
+    border: none;
+}
+.contactGrid button:hover{
+    box-shadow: 0 0 40px red;
+}
+.contactGrid #para{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.contactGrid a{
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+}
