@@ -1,54 +1,81 @@
-# Saleh Muhammad Mangrio - Personal Portfolio Website
 
-A dynamic and visually engaging portfolio website showcasing my skills, experience, education, and projects as a **Mobile Application Developer** specializing in React Native and Flutter.
+# Saleh Muhammad Mangrio - Portfolio Website  
 
-## 🚀 Features
-- **Hero Section**: An introductory section highlighting my role, expertise, and a download button for my CV.
-- **About Section**: Detailed insights into my development philosophy and areas of specialization.
-- **Portfolio Section**: Showcasing my projects with brief descriptions of each.
-- **Education Section**: A timeline of my academic journey and professional courses.
-- **Skills Section**: Highlighting my expertise in technologies like React Native, Flutter, JavaScript, and more.
-- **Experience Section**: Information about my professional and academic accomplishments.
-- **Partner Section**: Placeholder for collaborations and partnerships.
-- **Cover Letter**: A personal note elaborating on my journey and goals as a developer.
-- **Contact Section**: A contact form and links to my GitHub and LinkedIn profiles.
+This is a personal portfolio website designed and developed to showcase my skills, projects, education, and experience. The website is fully responsive, user-friendly, and built with modern web technologies.  
 
-## 🛠️ Technologies Used
-- **HTML5**: For the structure and layout of the website.
-- **CSS3**: For styling and responsiveness.
-- **JavaScript**: For dynamic functionality and interactivity.
+#CURRENTLY WORKING ON THIS
 
-## 🌟 Portfolio Projects
-1. **Entertainment App**: A React Native mobile app delivering rich multimedia content.
-2. **AI News Aggregator**: A Flutter app providing real-time, personalized news updates.
-3. **Interactive Video Platform**: A web-based platform for managing and sharing video content.
-4. **Dynamic Image Slider**: A JavaScript-powered portfolio showcase feature.
+## ✨ Features  
+- **Responsive Design**: Optimized for all screen sizes, including desktops, tablets, and mobile devices.  
+- **Interactive UI**: Smooth animations and transitions for an engaging user experience.  
+- **SEO-Friendly**: Structured content and metadata for better search engine visibility.  
+- **Dynamic Content**: Modular and reusable components for scalability.  
+- **Contact Form**: Functional form integrated with email services (or placeholder setup).  
 
-## 📜 Education
-1. **Matriculation (2015-2016)**: Army Public School, Malir Cantt, Karachi - Achieved 90% with full marks in Mathematics.
-2. **Intermediate (2016-2017)**: Army Public Degree College, Malir Cantt, Karachi - Achieved 83% in Pre-Engineering.
-3. **BSc in Computer Science (2020-Present)**: Sukkur IBA University - Focusing on programming, data structures, and software engineering.
-4. **CS50 Course (2021)**: Harvard University - Mastered problem-solving and programming fundamentals.
-5. **React and Redux (2022)**: Advanced courses from YouTube channels like "Chai aur Code" and "Code Step by Step."
+## 🛠️ Technologies Used  
+- **Frontend**:  
+  - HTML5 for semantic structure  
+  - CSS3 (with Flexbox and Grid) for styling and layout  
+  - JavaScript for interactivity and dynamic behavior  
 
-## 🧑‍💻 Skills
-- **Flutter Development**: 88%
-- **React JS Development**: 82%
-- **React Native Development**: 85%
-- **HTML, CSS, and JavaScript**: 90%
-- **Database Management Systems**: 78%
-- **Software Engineering Practices**: 83%
+- **Frameworks/Libraries**:  
+  - [Font Awesome](https://fontawesome.com/) for icons  
+  - [Google Fonts](https://fonts.google.com/) for typography  
+  - Vanilla JavaScript for custom components  
 
-## 📬 Contact
-- **Name**: Saleh Muhammad
-- **Email**: [salehmangrio.developer@gmail.com](mailto:salehmangrio.developer@gmail.com)
-- **Address**: Sukkur IBA University, Sindh, Pakistan
-- **GitHub**: [github.com/Salehmangrio](https://github.com/Salehmangrio)
-- **LinkedIn**: [linkedin.com/in/salehmuhammad114](https://www.linkedin.com/in/salehmuhammad114)
+- **Tools**:  
+  - Visual Studio Code for development  
+  - Git for version control  
+  - Figma (or equivalent) for UI/UX design  
 
-## 📄 License
-This project is licensed under the MIT License. Feel free to use and modify it for personal or professional purposes.
+## 🎨 Design Highlights  
+1. **Hero Section**: Includes a welcoming headline, a brief introduction, and a call-to-action button (e.g., Download CV).  
+2. **Responsive Grid**: CSS Grid and Flexbox used to create adaptable layouts for the portfolio, education, and skills sections.  
+3. **Animation Effects**: Subtle animations using CSS transitions and keyframes for enhanced visual appeal.  
+4. **Color Scheme**: A balanced palette of modern and professional colors for readability and aesthetics.  
+
+## 🚀 Setup Instructions  
+To view or modify this website locally:  
+1. **Clone the Repository**:  
+   ```bash  
+   git clone https://github.com/Salehmangrio/portfolio-using-HTML-CSS.git  
+   ```  
+
+2. **Navigate to the Project Directory**:  
+   ```bash  
+   cd portfolio-using-HTML-CSS 
+   ```  
+
+3. **Open the Website**:  
+   Open `homepage.html` in any modern web browser.  
+
+
+## 📂 File Structure  
+```bash
+portfolio-website/
+├── design/
+│   └── homepage.html
+├── style/
+│   ├── hero.css
+│   ├── about.css
+│   ├── education.css
+│   ├── skills.css
+│   ├── portfolio.css
+│   ├── experience.css
+│   ├── partner.css
+│   ├── coverletter.css
+│   └── contact.css
+├── assets/
+│   ├──       
+│   └──       
+└── README.md             # Project documentation (optional)
+```
+
+## 📄 License  
+This project is licensed under the MIT License. You are free to use, modify, and distribute it for personal or commercial purposes.  
 
 ---
 
-**© 2024 Saleh Muhammad Mangrio** - All rights reserved.
+**© 2024 Saleh Muhammad Mangrio** - Crafted with passion and precision. 
+
+This `README.md` provides a technical overview of the website and is developer-focused, making it ideal for hosting the repository on GitHub or similar platforms.
